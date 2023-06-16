@@ -10,6 +10,7 @@ Takım Flutter 65
 - Mert Göker - Product Owner/Developer
 - Talha Demirbaş - Developer
 - Nurefşan Ergören - Developer
+- Beyza Demir - Aktif Değil
 
 
 ## Ürün İsmi
@@ -45,14 +46,18 @@ Takım Flutter 65
 
 
 # Sprint 1
+ **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
+
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1]
@@ -74,76 +79,5 @@ Sprint Review katılımcıları:
 
 ---
 
-## Product Backlog URL
-[Flutter Team 65 Miro Backlog Board](https://miro.com/app/board/uXjVM-aBW5Q=/)
 
 
----
-
-# Sprint 2
-
-- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats]
-
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]
-
-
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]
-  ![Screenshot 2]
-  ![Screenshot 3]
-- **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış ve eksiklikleri değerlendirilmiştir. 
-Sprint Review katılımcıları:
-
-- **Sprint Retrospective:**
-
-  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
-
-
----
-
-## Product Backlog URL
-[Flutter Team 65 Miro Backlog Board](https://miro.com/app/board/uXjVM-aBW5Q=/)
-
-
----
-
-# Sprint 3
-
-- **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
-
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats]
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]
-
-
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]
-  ![Screenshot 2]
-  ![Screenshot 3]
-
-
-- **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. 
-Sprint Review katılımcıları:
-
-- **Sprint Retrospective:**
-
-  - Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
-
-
----
-
-
-- **Sprint Review**: 
-
-- **Sprint Retrospective:**
-
-
-
-
----
