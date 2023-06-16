@@ -16,7 +16,7 @@ Takım Flutter 65
 
 --Movie App--
 ## Product Backlog URL
-[Flutter Team 52 Miro Backlog Board] (https://miro.com/app/board/uXjVM-aBW5Q=/?share_link_id=53717997599)
+[Flutter Team 65 Miro Backlog Board] (https://miro.com/app/board/uXjVM-aBW5Q=/)
 ## Ürün Açıklaması
 - Movie App kullanıcıların izlemek istedikleri filmlere daha hızlı bir şekilde karar vermelerine yardımcı olan bir mobil uygulamadır. Binlerce film içeriği sunan uygulamamız, geniş bir seçenek yelpazesi ile kullanıcılara film önerileri sunar ve aynı zamanda filmlerin IMDB puanlarını gösterir. Kullanıcılar, Movie App sayesinde zaman kaybetmeden sevdikleri filmleri bulabilir ve yeni filmler keşfedebilirler.
 
