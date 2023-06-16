@@ -20,10 +20,10 @@ Takım Flutter 65
 
 
 - **Uygulama birincil fonksiyonu**: 
-- FilmFikir, kullanıcılara film önerileri sunarak izlemek istedikleri filmlere karar vermelerini kolaylaştırır. Kullanıcılar, uygulamada filmleri arayabilir, filmler hakkında ayrıntılı bilgilere erişebilir ve IMDB puanlarına göre sıralama yapabilirler. Ayrıca, kullanıcılar favori filmlerini kaydedebilir ve daha sonra izlemek üzere listeler oluşturabilirler.
+ FilmFikir, kullanıcılara film önerileri sunarak izlemek istedikleri filmlere karar vermelerini kolaylaştırır. Kullanıcılar, uygulamada filmleri arayabilir, filmler hakkında ayrıntılı bilgilere erişebilir ve IMDB puanlarına göre sıralama yapabilirler. Ayrıca, kullanıcılar favori filmlerini kaydedebilir ve daha sonra izlemek üzere listeler oluşturabilirler.
 
 - **Uygulama ikincil fonksiyonu**:
-- FilmFikir, rastgele film seçme özelliği ile kullanıcılara sürpriz bir film deneyimi yaşatır. Kullanıcılar, uygulama üzerinden rastgele film seçeneğini kullanarak izlemek için yeni ve farklı bir film keşfedebilirler. Bu özellik, kullanıcıların rutinlerinden çıkıp keşif yapmalarını sağlayarak sinema deneyimlerini zenginleştirir.
+ FilmFikir, rastgele film seçme özelliği ile kullanıcılara sürpriz bir film deneyimi yaşatır. Kullanıcılar, uygulama üzerinden rastgele film seçeneğini kullanarak izlemek için yeni ve farklı bir film keşfedebilirler. Bu özellik, kullanıcıların rutinlerinden çıkıp keşif yapmalarını sağlayarak sinema deneyimlerini zenginleştirir.
 
 ## Ürün Özellikleri
 - Binlerce film içeriği: Kullanıcılara geniş bir film arşivi sunulur, farklı kategorilerde binlerce film bulunur.
