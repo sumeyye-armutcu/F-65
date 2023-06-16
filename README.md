@@ -41,7 +41,6 @@ Takım Flutter 65
 - Keşifçi izleyiciler: Rutinlerinden çıkıp yeni ve farklı filmler keşfetmek isteyen kullanıcılar.
 
 
-## Juriye Not
 
 
 
