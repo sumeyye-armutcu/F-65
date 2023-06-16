@@ -52,30 +52,64 @@ Takım Flutter 65
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**:
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
 
 - **Sprint board update**: Sprint board screenshotları: 
-
+![Backlog 1]
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  
+  ![Screenshot 1]
+  ![Screenshot 2]
+  ![Screenshot 3]
 - **Sprint Review**: 
+Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuştur.
+Sprint Review katılımcıları:
 
 - **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+ 
 
 
+---
+
+## Product Backlog URL
+[Flutter Team 65 Miro Backlog Board](https://miro.com/app/board/uXjVM-aBW5Q=/)
+
+
+---
 
 # Sprint 2
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats]
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1]
 
 
-- **Ürün Durumu**:
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1]
+  ![Screenshot 2]
+  ![Screenshot 3]
 - **Sprint Review**: 
+Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış ve eksiklikleri değerlendirilmiştir. 
+Sprint Review katılımcıları:
 
 - **Sprint Retrospective:**
 
+  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 
+
+---
+
+## Product Backlog URL
+[Flutter Team 65 Miro Backlog Board](https://miro.com/app/board/uXjVM-aBW5Q=/)
+
+
+---
 
 # Sprint 3
 
@@ -83,13 +117,26 @@ Takım Flutter 65
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats]
-
 - **Sprint board update**: Sprint board screenshotları: 
-
+![Backlog 1]
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
- 
+  ![Screenshot 1]
+  ![Screenshot 2]
+  ![Screenshot 3]
+
+
+- **Sprint Review**: 
+Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. 
+Sprint Review katılımcıları:
+
+- **Sprint Retrospective:**
+
+  - Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
+
+---
 
 
 - **Sprint Review**: 
