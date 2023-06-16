@@ -10,11 +10,11 @@ Takım Flutter 65
 - Mert Göker - Product Owner
 - Talha Demirbaş - Developer
 - Nurefşan Ergören - Developer
-- Ahmet Kocatürk - Developer
+
 
 ## Ürün İsmi
 
---Zinciri Kır--
+--Film Rehberi--
 ## Ürün Açıklaması
 
 
