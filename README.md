@@ -48,7 +48,7 @@ Takım Flutter 65
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
@@ -66,12 +66,12 @@ Takım Flutter 65
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]
-  ![Screenshot 2]
-  ![Screenshot 3]
+  ![Screenshot 1](Project-Management/Product-1.png)
+  ![Screenshot 2](Project-Management/Product-2.png)
+  ![Screenshot 3](Project-Management/Product-3.png)
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuştur.
-Sprint Review katılımcıları: Sümeyye Armutcu, Mert Göker, Talha Demirbaş, Nurefşan Ergören 
+Sprint Review katılımcıları:Talha Demirbaş, Sümeyye Armutcu, Nurefşan Ergören 
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
