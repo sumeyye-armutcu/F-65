@@ -15,18 +15,18 @@ Takım Flutter 65
 
 ## Ürün İsmi
 
---Movie App--
+--CineShuffle--
 ## Product Backlog URL
 [Flutter Team 65 Miro Backlog Board](https://miro.com/app/board/uXjVM-aBW5Q=/)
 ## Ürün Açıklaması
-- Movie App kullanıcıların izlemek istedikleri filmlere daha hızlı bir şekilde karar vermelerine yardımcı olan bir mobil uygulamadır. Binlerce film içeriği sunan uygulamamız, geniş bir seçenek yelpazesi ile kullanıcılara film önerileri sunar ve aynı zamanda filmlerin IMDB puanlarını gösterir. Kullanıcılar, Movie App sayesinde zaman kaybetmeden sevdikleri filmleri bulabilir ve yeni filmler keşfedebilirler.
+- CineShuffle kullanıcıların izlemek istedikleri filmlere daha hızlı bir şekilde karar vermelerine yardımcı olan bir mobil uygulamadır. Binlerce film içeriği sunan uygulamamız, geniş bir seçenek yelpazesi ile kullanıcılara film önerileri sunar ve aynı zamanda filmlerin IMDB puanlarını gösterir. Kullanıcılar, CineShuffle sayesinde zaman kaybetmeden sevdikleri filmleri bulabilir ve yeni filmler keşfedebilirler.
 
 
 - **Uygulama birincil fonksiyonu**: 
- Movie App, kullanıcılara film önerileri sunarak izlemek istedikleri filmlere karar vermelerini kolaylaştırır. Kullanıcılar, uygulamada filmleri arayabilir, filmler hakkında ayrıntılı bilgilere erişebilir ve IMDB puanlarına göre sıralama yapabilirler. Ayrıca, kullanıcılar favori filmlerini kaydedebilir ve daha sonra izlemek üzere listeler oluşturabilirler.
+ CineShuffle, kullanıcılara film önerileri sunarak izlemek istedikleri filmlere karar vermelerini kolaylaştırır. Kullanıcılar, uygulamada filmleri arayabilir, filmler hakkında ayrıntılı bilgilere erişebilir ve IMDB puanlarına göre sıralama yapabilirler. Ayrıca, kullanıcılar favori filmlerini kaydedebilir ve daha sonra izlemek üzere listeler oluşturabilirler.
 
 - **Uygulama ikincil fonksiyonu**:
- Movie App, rastgele film seçme özelliği ile kullanıcılara sürpriz bir film deneyimi yaşatır. Kullanıcılar, uygulama üzerinden rastgele film seçeneğini kullanarak izlemek için yeni ve farklı bir film keşfedebilirler. Bu özellik, kullanıcıların rutinlerinden çıkıp keşif yapmalarını sağlayarak sinema deneyimlerini zenginleştirir.
+ CineShuffle, rastgele film seçme özelliği ile kullanıcılara sürpriz bir film deneyimi yaşatır. Kullanıcılar, uygulama üzerinden rastgele film seçeneğini kullanarak izlemek için yeni ve farklı bir film keşfedebilirler. Bu özellik, kullanıcıların rutinlerinden çıkıp keşif yapmalarını sağlayarak sinema deneyimlerini zenginleştirir.
 
 ## Ürün Özellikleri
 - Binlerce film içeriği: Kullanıcılara geniş bir film arşivi sunulur, farklı kategorilerde binlerce film bulunur.
