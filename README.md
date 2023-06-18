@@ -23,7 +23,7 @@ Takım Flutter 65
 
 
 - **Uygulama birincil fonksiyonu**: 
- CineShuffle, kullanıcılara film önerileri sunarak izlemek istedikleri filmlere karar vermelerini kolaylaştırır. Kullanıcılar, uygulamada filmleri arayabilir, filmler hakkında ayrıntılı bilgilere erişebilir ve IMDB puanlarına göre sıralama yapabilirler. Ayrıca, kullanıcılar favori filmlerini kaydedebilir ve daha sonra izlemek üzere listeler oluşturabilirler.
+ CineShuffle, kullanıcılara film önerileri sunarak izlemek istedikleri filmlere karar vermelerini kolaylaştırır. Kullanıcılar, uygulamada filmler hakkında ayrıntılı bilgilere erişebilir ve IMDB puanlarını görebilir.
 
 - **Uygulama ikincil fonksiyonu**:
  CineShuffle, rastgele film seçme özelliği ile kullanıcılara sürpriz bir film deneyimi yaşatır. Kullanıcılar, uygulama üzerinden rastgele film seçeneğini kullanarak izlemek için yeni ve farklı bir film keşfedebilirler. Bu özellik, kullanıcıların rutinlerinden çıkıp keşif yapmalarını sağlayarak sinema deneyimlerini zenginleştirir.
@@ -31,7 +31,6 @@ Takım Flutter 65
 ## Ürün Özellikleri
 - Binlerce film içeriği: Kullanıcılara geniş bir film arşivi sunulur, farklı kategorilerde binlerce film bulunur.
 - IMDB puanları: Her film için IMDB puanı görüntülenir, kullanıcılar filmleri puanlarına göre sıralayabilirler.
-- Favori listesi ve izleme listesi: Kullanıcılar, beğendikleri filmleri favori listesine ekleyebilir ve izlemek üzere bir izleme listesi oluşturabilir.
 - Rastgele film seçme özelliği: Kullanıcılar, uygulama üzerinden rastgele film seçeneğini kullanarak izlemek için yeni ve farklı bir film keşfedebilirler.
 
 ## Hedef Kitle
@@ -49,7 +48,7 @@ Takım Flutter 65
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
