@@ -59,7 +59,9 @@ Takım Flutter 65
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](Project-Management/Backlog-1.png)
-![Backlog 2]
+![Backlog 2](Project-Management/Backlog-2.png)
+![Backlog 3](Project-Management/Backlog-3.png)
+
 
 
 
