@@ -30,7 +30,7 @@ Takım Flutter 65
 
 ## Ürün Özellikleri
 - Binlerce film içeriği: Kullanıcılara geniş bir film arşivi sunulur, farklı kategorilerde binlerce film bulunur.
-- IMDB puanları: Her film için IMDB puanı görüntülenir, kullanıcılar filmleri puanlarına göre sıralayabilirler.
+- IMDB puanları: Her film için IMDB puanı görüntülenir.
 - Rastgele film seçme özelliği: Kullanıcılar, uygulama üzerinden rastgele film seçeneğini kullanarak izlemek için yeni ve farklı bir film keşfedebilirler.
 
 ## Hedef Kitle
