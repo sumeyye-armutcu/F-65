@@ -70,7 +70,7 @@ Takım Flutter 65
   ![Screenshot 2](Project-Management/Product-2.png)
   ![Screenshot 3](Project-Management/Product-3.png)
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuştur.
+Alınan kararlar: Giriş ve film için temel sayfalar oluşturulmuştur, hatayla karşılaşıldığında uyarı mesajı ekrana verilmiştir.
 Sprint Review katılımcıları:Talha Demirbaş, Sümeyye Armutcu, Nurefşan Ergören 
 
 - **Sprint Retrospective:**
