@@ -76,7 +76,7 @@ Sprint Review katılımcıları:Talha Demirbaş, Sümeyye Armutcu, Nurefşan Erg
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
-  - 
+  
  ## Product Backlog URL
 [Flutter Team 65 Miro Backlog Board](https://miro.com/app/board/uXjVM-aBW5Q=/)
 
@@ -85,8 +85,8 @@ Sprint Review katılımcıları:Talha Demirbaş, Sümeyye Armutcu, Nurefşan Erg
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır.İlk sprintten hedeflenen 100 puan alınmıltır. İkinci sprint için de aynı şekilde 100 puan hedef konulmuştur.
+  
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
 - Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
@@ -111,7 +111,6 @@ Alınan kararlar: Giriş ve film için temel sayfalar yeniden oluşturulmuştur,
 Sprint Review katılımcıları: Sümeyye Armutcu, Nurefşan Ergören
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
  
 
