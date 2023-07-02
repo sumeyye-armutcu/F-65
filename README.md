@@ -76,7 +76,10 @@ Sprint Review katılımcıları:Talha Demirbaş, Sümeyye Armutcu, Nurefşan Erg
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
- 
+  - 
+ ## Product Backlog URL
+[Flutter Team 65 Miro Backlog Board](https://miro.com/app/board/uXjVM-aBW5Q=/)
+
 # Sprint 2
  **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
@@ -105,7 +108,7 @@ Sprint Review katılımcıları:Talha Demirbaş, Sümeyye Armutcu, Nurefşan Erg
   ![Screenshot 3](Project-Management/Product-3.png)
 - **Sprint Review**: 
 Alınan kararlar: Giriş ve film için temel sayfalar yeniden oluşturulmuştur, hatalar azaltışmış, hatayla karşılaşıldığında uyarı mesajı ekrana verilmiştir.
-Sprint Review katılımcıları:Talha Demirbaş, Sümeyye Armutcu, Nurefşan Ergören, Mert Göker
+Sprint Review katılımcıları: Sümeyye Armutcu, Nurefşan Ergören
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
