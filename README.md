@@ -96,8 +96,8 @@ Sprint Review katılımcıları:Talha Demirbaş, Sümeyye Armutcu, Nurefşan Erg
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](Project-Management/Backlog-4.png)
-![Backlog 2](Project-Management/Backlog-5.png)
-![Backlog 3](Project-Management/Backlog-6.png)
+![Backlog 2](Project-Management/Backlog-6.png)
+![Backlog 3](Project-Management/Backlog-5.png)
 
 
 
