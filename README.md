@@ -101,7 +101,7 @@ Sprint Review katılımcıları:Talha Demirbaş, Sümeyye Armutcu, Nurefşan Erg
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](Project-Management/Product-4.png)
-  ![Screenshot 2](Project-Management/Product-2.png)
+  ![Screenshot 2](Project-Management/Product-5.png)
   ![Screenshot 3](Project-Management/Product-3.png)
 - **Sprint Review**: 
 Alınan kararlar: Giriş ve film için temel sayfalar yeniden oluşturulmuştur, hatalar azaltışmış, hatayla karşılaşıldığında uyarı mesajı ekrana verilmiştir.
