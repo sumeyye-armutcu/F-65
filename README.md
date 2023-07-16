@@ -113,7 +113,7 @@ Sprint Review katılımcıları: Sümeyye Armutcu, Nurefşan Ergören
 - **Sprint Retrospective:**
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
-    ## Product Backlog URL
+ ## Product Backlog URL
 [Flutter Team 65 Miro Backlog Board](https://miro.com/app/board/uXjVM-aBW5Q=/)
 
 # Sprint 3
@@ -147,7 +147,7 @@ Alınan kararlar: Giriş ve film için temel sayfaların tasarımı geliştirilm
 Sprint Review katılımcıları: Talha Demirbaş, Sümeyye Armutcu, Nurefşan Ergören, Mert Göker.
 
 - **Sprint Retrospective:**
-  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+  - Ürün başarıyla bitirilmiştir. Takım arkadaşlarına emekleri için teşekkür edilmiştir.
  
 
 
