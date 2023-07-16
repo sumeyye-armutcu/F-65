@@ -132,8 +132,8 @@ Sprint Review katılımcıları: Sümeyye Armutcu, Nurefşan Ergören
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](Project-Management/Backlog-7.png)
-![Backlog 2](Project-Management/Backlog-8.png)
-![Backlog 3](Project-Management/Backlog-9.png)
+![Backlog 2](Project-Management/Backlog-9.png)
+![Backlog 3](Project-Management/Backlog-8.png)
 
 
 
