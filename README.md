@@ -140,7 +140,7 @@ Sprint Review katılımcıları: Sümeyye Armutcu, Nurefşan Ergören
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](Project-Management/Product_5.png)
-  ![Screenshot 2](Project-Management/Product_7.png)
+  ![Screenshot 2](Project-Management/Product-7.png)
   ![Screenshot 3](Project-Management/Product-6.png)
 - **Sprint Review**: 
 Alınan kararlar: Giriş ve film için temel sayfaların tasarımı geliştirilmiş, ikonlar yenilenmiş, hatalar azaltılmıştır.
