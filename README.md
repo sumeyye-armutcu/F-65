@@ -7,7 +7,7 @@ Takım Flutter 65
 
 ## Takım Elemanları
 - Sümeyye Armutcu - Scrum Master
-- Mert Göker - Product Owner/Developer
+- Mert Göker - Product Owner
 - Talha Demirbaş - Developer
 - Nurefşan Ergören - Developer
 - Beyza Demir - Aktif Değil
