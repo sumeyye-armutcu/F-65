@@ -121,7 +121,7 @@ Sprint Review katılımcıları: Sümeyye Armutcu, Nurefşan Ergören
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır.İlk 2 sprintten hedeflenen 200 puan alınmıştır. Üçüncü sprint için de aynı şekilde 100 puan hedef konulmuştur.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır.İlk 2 sprintten hedeflenen 200 puan alınmıştır. Üçüncü sprint için de aynı şekilde 100 puan hedef konulmuştur.
   
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
